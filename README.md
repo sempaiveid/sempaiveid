@@ -55,6 +55,15 @@
     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
   </a>
 </div>
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [vladuk640@gmail.com](mailto:vladuk640@gmail.com)  
+- 💬 Telegram: [@sempaiveid](https://t.me/sempaiveid)  
+- 🌐 Portfolio: *Coming soon...*
+
+---
 
 ---
 
@@ -70,12 +79,4 @@
 ---
 
 
----
 
-### 📫 Contact Me
-
-- 📧 Email: [vladuk640@gmail.com](mailto:vladuk640@gmail.com)  
-- 💬 Telegram: [@sempaiveid](https://t.me/sempaiveid)  
-- 🌐 Portfolio: *Coming soon...*
-
----
