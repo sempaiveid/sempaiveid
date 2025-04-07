@@ -61,10 +61,10 @@
 ### 📊 GitHub Stats
 
 <a href="https://github.com/sempaiveid">
-  <img height="100" align="center" src="https://github-readme-stats.vercel.app/api?username=sempaiveid&show_icons=true&bg_color=00000000&hide=stars&rank_icon=github&custom_title=GitHub%20Stats" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=sempaiveid&show_icons=true&bg_color=00000000&hide=stars&rank_icon=github&custom_title=GitHub%20Stats" />
 </a>
 <a href="https://github.com/sempaiveid">
-  <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sempaiveid&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sempaiveid&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
 </a>
 
 ---
