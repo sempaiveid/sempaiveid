@@ -82,13 +82,4 @@
 <a href="https://github.com/sempaiveid">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sempaiveid&theme=transparent" />
 </a>
-<a href="https://github.com/sempaiveid">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sempaiveid&theme=transparent" />
-</a>
-<a href="https://github.com/sempaiveid">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sempaiveid&theme=transparent" />
-</a>
 
----
-
-Теперь всё как было, и добавил мем на память! Если хочешь ещё что-то, дай знать!
