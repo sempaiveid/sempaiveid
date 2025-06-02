@@ -6,7 +6,7 @@
 🧠 **Age:** 20  
 🌍 **Languages:** 🇷🇺 Russian (native) • 🇺🇦 Ukrainian (native) • 🇬🇧 English (A2 level)  
 🚀 **Goal:** Become a confident Full-Stack Developer and create solutions that bring real value.  
-📘 **Currently learning:** [React](https://reactjs.org/), [Angular](https://angular.io/)
+📘 **Currently learning:** [React](https://reactjs.org/
 
 ---
 
