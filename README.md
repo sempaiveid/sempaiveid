@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat&logo=reactrouter&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-Routing-DD0031?style=flat&logo=angular&logoColor=white" />
 
 <!-- 💻 Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
