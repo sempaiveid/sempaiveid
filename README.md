@@ -39,12 +39,9 @@
 
 <!-- 🔧 Backend / DB -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-25D366?style=flat&logo=postman&logoColor=white" />
 
 <!-- 🖥 Desktop -->
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" />
-
 <!-- 🎨 UI & Design -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 
