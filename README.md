@@ -4,7 +4,7 @@
 💻 **Front-End Developer** from Odessa, Ukraine. I'm passionate about building interactive and user-friendly web applications.
 
 🧠 **Age:** 20  
-🌍 **Languages:** 🇷🇺 Russian (native) • 🇺🇦 Ukrainian (native) • 🇬🇧 English (b1 level)    
+🌍 **Languages:** 🇬🇧 English (b1 level) •  🇷🇺 Russian (native) • 🇺🇦 Ukrainian (native) •  
 
 
 ### ⚙️ Tech Stack
